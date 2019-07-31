@@ -1,0 +1,13 @@
+title: EAGLE & EAGLE
+description: > 
+  London-based production company specialising in distinctive 
+  documentaries, drama and educational programmes 
+
+sass:
+  load_paths:
+    - _sass
+    - node_modules
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
