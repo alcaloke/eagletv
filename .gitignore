@@ -1,6 +1,2 @@
 .sass-cache
 _site
-node_modules/bootstrap/dist
-node_modules/bootstrap/js
-node_modules/jquery
-node_modules/popper.js

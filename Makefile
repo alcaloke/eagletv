@@ -33,4 +33,4 @@ build: include-npm-deps
 	$(JEKYLL) build
 
 serve: include-npm-deps
-	JEKYLL_ENV=production $(JEKYLL) serve --livereload
+	JEKYLL_ENV=production $(JEKYLL) serve
