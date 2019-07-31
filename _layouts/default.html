@@ -2,7 +2,13 @@
 <html lang="en">
 	{% include head.html %}
 	<body>
-		<h1 class="display-4">Hello world</h1>
+		{% include header.html %}
+
+		<main>
+			{{ content }}
+		</main>
+
+		{% include footer.html %}
         <script src="{{'/assets/vendor/jquery.min.js' | prepend: site.baseurl }}"></script>
 	    <script src="{{'/assets/vendor/popper.min.js' | prepend: site.baseurl }}"></script>
 	    <script src="{{'/assets/vendor/bootstrap.min.js' | prepend: site.baseurl }}"></script>
