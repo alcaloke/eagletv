@@ -2,5 +2,5 @@
 _site
 node_modules/jquery
 node_modules/popper.js
-node_modules/dist
-node_modules/js
+node_modules/bootstrap/dist
+node_modules/bootstrap/js
