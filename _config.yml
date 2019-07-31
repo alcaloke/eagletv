@@ -11,3 +11,11 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
+
+exclude:
+  - node_modules
+  - Makefile
+  - package-lock.json
+  - package.json
+  - Gemfile
+  - Gemfile.lock
