@@ -1,6 +1,17 @@
+$emerald: rgb(0, 109, 82);
+$myGreen: darken(green, 3%);
+$icedmint: rgb(182, 223, 198);
+$myNavy: rgb(0, 46, 70);
+// $myNavy: darken(navy, 10%);
+
+
+$primary: $emerald;
+$secondary: $myNavy;
+$info: $icedmint;
 // $primary: darken(#007bff, 5%);
-$primary: darken(green, 3%);
-$secondary: darken(navy, 10%);
-$info: lighten(yellowgreen, 5%);
+// $info: lighten(yellowgreen, 5%);
+
+$navbar-light-color: $emerald;
+$navbar-light-toggler-border-color: $icedmint;
 
 $jumbotron-bg: white;
