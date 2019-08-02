@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="container">
-	<!-- jumbotron -->
+	<!-- eagle & eagle jumbotron -->
 	<div class="jumbotron jumbotron-fluid mb-0">
 		<div class="container text-center">
 			<h1 class="display-4 text-secondary">EAGLE & EAGLE</h1>
@@ -13,158 +13,27 @@ layout: default
 			</p>
 		</div>
 	</div>
-	<!-- <hr /> -->
-	<!-- <br /> -->
-	<!-- <h1 class="display-4 text-center text-secondary">PROJECTS</h1> -->
-	<!-- <br /> -->
-	<!-- 2. Nuclear Boy Scout Card -->
+
+	<!-- projects -->
+	{% for project in site.data.projects %}
 	<div class="card mb-3" style="max-width: 100%;">
 		<div class="row no-gutters">
 			<div class="col-md-2">
-				<img
-					src="{{ '/assets/images/boyscout.jpg' | relative_url }}"
-					class="card-img"
-					alt="..."
-				/>
+				<img src="{{ project.image_url | relative_url }}" class="card-img" alt="..." />
 			</div>
 			<div class="col-md-10">
 				<div class="card-body">
-					<a href="{{ '/projects/the-nuclear-boy.html' | relative_url }}">
-						<h5 class="card-title">NUCLEAR BOY SCOUT</h5>
+					<a href="{{ project.link | relative_url }}">
+						<h5 class="card-title">{{ project.name }}</h5>
 					</a>
 					<p class="card-text">
-						The true story of how a teenage boy tried to build a nuclear reactor
-						in his garden shed.<br /><strong>"Magnificent story"</strong>
-						- The Times
+						{{ project.description }}
 					</p>
-					<a
-						href="/projects/the-nuclear-boy.html"
-						class="btn btn-info"
-						>Video</a
-					>
+					<a href="{{ project.link | relative_url }}" class="btn btn-info">Video</a>
 				</div>
 			</div>
 		</div>
 	</div>
-	<!-- 3. Robo Sapiens Card -->
-	<div class="card mb-3" style="max-width: 100%;">
-		<div class="row no-gutters">
-			<div class="col-md-2">
-				<img src="/assets/images/robo.jpg" class="card-img" alt="..." />
-			</div>
-			<div class="col-md-10">
-				<div class="card-body">
-					<a href="#">
-						<h5 class="card-title">ROBO SAPIENS</h5>
-					</a>
-					<p class="card-text">
-						The world's most amazing robots: a 50' documentary for Discovery/TLC
-						and Discovery Channels worldwide.
-					</p>
-					<a href="#" class="btn btn-info">Video</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- 4. Big Questions -->
-	<div class="card mb-3" style="max-width: 100%;">
-		<div class="row no-gutters">
-			<div class="col-md-2">
-				<img src="/assets/images/bigQ.gif" class="card-img" alt="..." />
-			</div>
-			<div class="col-md-10">
-				<div class="card-body">
-					<a href="#">
-						<h5 class="card-title">BIG QUESTIONS</h5>
-					</a>
-					<p class="card-text">
-						5 x 20' science series presented by Adam Hart-Davis for Channel 4
-						Schools. Nominated for BAFTA and Indie awards.
-					</p>
-					<a href="#" class="btn btn-info">Video</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- 5. Space -->
-	<div class="card mb-3" style="max-width: 100%;">
-		<div class="row no-gutters">
-			<div class="col-md-2">
-				<img src="/assets/images/space.gif" class="card-img" alt="..." />
-			</div>
-			<div class="col-md-10">
-				<div class="card-body">
-					<a href="#">
-						<h5 class="card-title">SPACE - THE FINAL JUNKYARD</h5>
-					</a>
-					<p class="card-text">
-						50' documentary on pollution in space, for Channel 4 and
-						Discovery/TLC.
-					</p>
-					<a href="#" class="btn btn-info">Video</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- 6. Guru Busters -->
-	<div class="card mb-3" style="max-width: 100%;">
-		<div class="row no-gutters">
-			<div class="col-md-2">
-				<img src="/assets/images/guru.gif" class="card-img" alt="..." />
-			</div>
-			<div class="col-md-10">
-				<div class="card-body">
-					<a href="#">
-						<h5 class="card-title">GURU BUSTERS</h5>
-					</a>
-					<p class="card-text">
-						50' documentary about campaigners in India exposing crooked gurus
-						and quacks, for Channel 4 and Discovery/TLC.
-					</p>
-					<a href="#" class="btn btn-info">Video</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- 7. Sun Storm -->
-	<div class="card mb-3" style="max-width: 100%;">
-		<div class="row no-gutters">
-			<div class="col-md-2">
-				<img src="/assets/images/sun.jpg" class="card-img" alt="..." />
-			</div>
-			<div class="col-md-10">
-				<div class="card-body">
-					<a href="#">
-						<h5 class="card-title">Sun Storm</h5>
-					</a>
-					<p class="card-text">
-						50' documentary about the dramatic effects of solar storms on life
-						and technology on Earth, for Channel 4 and Discovery/TLC.
-					</p>
-					<a href="#" class="btn btn-info">Video</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!-- 8. Grandpa C -->
-	<div class="card mb-3" style="max-width: 100%;">
-		<div class="row no-gutters">
-			<div class="col-md-2">
-				<img src="/assets/images/grandpa.jpg" class="card-img" alt="..." />
-			</div>
-			<div class="col-md-10">
-				<div class="card-body">
-					<a href="#">
-						<h5 class="card-title">GRANDPA CHATTERJI</h5>
-					</a>
-					<p class="card-text">
-						30' children's drama with Saeed Jaffrey and Roshan Seth for Channel
-						4.
-					</p>
-					<a href="#" class="btn btn-info">Video</a>
-				</div>
-			</div>
-		</div>
-	</div>
+	{% endfor %}
 	<br />
 </div>
