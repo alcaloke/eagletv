@@ -1,7 +1,7 @@
 - name: Mike the Midwife
   link: /projects/mike-the-midwife.html
   description: Meet Mike the Midwife, a man in a women’s world. How did such a fellow manage to get such a job? This is the question you will be asking as Mike visits his patients and offers opinions about childbirth that will horrify the politically correct.
-  image_url: /assets/images/midwife.jpg
+  image_url: /assets/images/mike.png
 
 - name: The Nuclear Boy Scout
   link: /projects/the-nuclear-boy-scout.html
@@ -16,12 +16,12 @@
 - name: Big Questions
   link: /projects/big-questions.html
   description: "5 x 20' science series presented by Adam Hart-Davis for Channel 4 Schools. Nominated for BAFTA and Indie awards."
-  image_url: /assets/images/bigQ.gif
+  image_url: /assets/images/bigquestions.png
 
 - name: Space - The Final Junkyard
   link: /projects/space-the-final-junkyard.html
   description: "50' documentary on pollution in space, for Channel 4 and Discovery/TLC."
-  image_url: /assets/images/space.gif
+  image_url: /assets/images/space.png
 
 - name: Guru Busters
   link: /projects/guru-busters.html
@@ -31,7 +31,7 @@
 - name: Sun Storm
   link: /projects/sun-storm.html
   description: "50' documentary about campaigners in India exposing crooked gurus and quacks, for Channel 4 and Discovery/TLC."
-  image_url: /assets/images/sun.jpg
+  image_url: /assets/images/sunstorm.png
 
 - name: Granpa Chatterji
   link: /projects/grandpa-chatterji.html

@@ -3,11 +3,9 @@ title: The Nuclear Boy Scout
 layout: project
 ---
 
-<br>
-<div class="video-container">
-<iframe class="video" src="https://www.youtube.com/embed/dwRt74nzRmY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class='video-container'>
+<iframe class="video" src="https://player.vimeo.com/video/352009759?byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
-<br>
 
 The true story of American teenager David Hahn, who set about building a nuclear reactor in his garden shed - until matters got out of hand and the shed started emitting high levels of radiation. Was his homemade reactor producing plutonium?
 
