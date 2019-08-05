@@ -33,10 +33,10 @@ To buy now, click on the button below. Or e-mail: <a href="mailto:info@eagletv.c
 <br>
 **Credits:**
 
-**Producer/director: Bindu Mathur**<br>
-**Camera: Mike Muschamp**<br>
-**Editor: Cliff Homow**<br>
-**Music: Antoine Olivier**<br>
-**Science advisors: Mike Hoyland and Fred M. Niell**<br>
-**Researcher: David Briggs**<br>
-**Executive producer: Robert Eagle**
+Producer/director: Bindu Mathur<br>
+Camera: Mike Muschamp<br>
+Editor: Cliff Homow<br>
+Music: Antoine Olivier<br>
+Science advisors: Mike Hoyland and Fred M. Niell<br>
+Researcher: David Briggs<br>
+Executive producer: Robert Eagle

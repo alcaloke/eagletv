@@ -35,7 +35,7 @@ Adam Hart-Davis learns from a modern plant breeder how Gregor Mendel did his his
 #### Mendeleev's Dream
 
 <br>
-<div class='video-container'>
+<div class='video-container-wide'>
 <iframe class='video' src="https://player.vimeo.com/video/352014976?byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 

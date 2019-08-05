@@ -3,7 +3,7 @@ title: Mike the Midwife
 layout: project
 ---
 
-<div class='video-container'>
+<div class='video-container-wide'>
 <iframe class='video' src="https://player.vimeo.com/video/17743204?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 

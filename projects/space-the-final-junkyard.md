@@ -27,11 +27,11 @@ This one hours documentary include startling archive and graphics as well as int
 <iframe class='video' src="https://player.vimeo.com/video/352021996?byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
+Distribution: <a href="https://www.drg.tv" target="_blank">DRG</a>
+
 **Credits:**
 
 Director: Patrick Fleming<br>
 Producer/Writer: Robert Eagle<br>
 Camera: Mike Coles<br>
 Editor: Perry Shaffer<br>
-
-Distribution: <a href="https://www.drg.tv" target="_blank">www.drg.tv</a>
