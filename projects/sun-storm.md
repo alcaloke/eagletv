@@ -15,11 +15,11 @@ Research by solar physicists has revealed that disturbances on the Sun cause vas
 
 When one of these sun storms hits Earth, it can wreak havoc with the delicate array of satellites which circle the planet - and on which we now depend for basic services like television, telephone, banking and navigation - as well as scientific and military information. Violent sun storms can provoke enormous fluctuations in the Earth’s magnetic field and cause widespread power cuts - as they did a few years ago in Canada when the whole of Quebec lost its power.
 
+Distribution: <a href="https://www.drg.tv" target="_blank">DRG</a>
+
 **Credits:**
 
 Director: Dan Chambers<br>
 Producer: Robert Eagle<br>
 Camera: Mike Coles<br>
 Graphics: Liquid Television<br>
-
-Distribution: <a href="https://www.drg.tv" target="_blank">DRG</a>

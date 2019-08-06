@@ -19,7 +19,8 @@ layout: default
 	<div class="card mb-3" style="max-width: 100%;">
 		<div class="row no-gutters">
 			<div class="col-md-2">
-				<img src="{{ project.image_url | relative_url }}" class="card-img" alt="..." />
+				<a href="{{ project.link | relative_url }}"><img src="{{ project.image_url | relative_url }}"
+						class="card-img" alt="{{ project.name | relative_url }}" /></a>
 			</div>
 			<div class="col-md-10">
 				<div class="card-body">
