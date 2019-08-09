@@ -3,6 +3,10 @@ title: Grandpa Chatterji
 layout: project
 ---
 
+<div class="video-container">
+<iframe class="video" src="https://player.vimeo.com/video/352876742?byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
 When grandpa from hell meets grandpa from India, family life will never be the same again.
 
 Grandpa Chatterji is the hilarious story of a happy, argumentative Asian family in the UK, adapted for television by author Jamila Gavin.
@@ -13,15 +17,11 @@ There's Grandpa Leicester (Saeed Jaffrey), strict and old-fashioned, who insists
 
 With its eccentric, true-to-life characters seen from a young point of view, Grandpa Chatterji is a family story of universal appeal from a popular, award-winning author.
 
-Director: Indra Bhose
+**DVD sales**: Visit <a href="http://www.channel4learning.com/" target="_blank">Channel 4 Learning Shop</a>, or e-mail: <a href="mailto:info@eagletv.co.uk">info@eagletv.co.uk</a>
+
+**Distribution**: 4Learning +44-207 306 5572 <a href="mailto:cmckenzie@channel4.co.uk">cmckenzie@channel4.co.uk</a>
+
+**Credits:**
+
+Director: Indra Bhose<br>
 Producers: Robert Eagle and Catharine Alen-Buckley
-
-**DVDs - direct from the producer**
-
-£13.99 (UK) including postal charges and VAT
-
-To buy now, click on the button below. Or e-mail: <a href="mailto:info@eagletv.co.uk">info@eagletv.co.uk</a>
-
-{% include paypal.html %}
-
-Distribution: 4Learning +44-207 306 5572 <a href="mailto:cmckenzie@channel4.co.uk">cmckenzie@channel4.co.uk</a>
