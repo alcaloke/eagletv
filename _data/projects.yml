@@ -16,12 +16,12 @@
 - name: Big Questions
   link: /projects/big-questions.html
   description: "5 x 20' science series presented by Adam Hart-Davis for Channel 4 Schools. Nominated for BAFTA and Indie awards."
-  image_url: /assets/images/bigquestions.png
+  image_url: /assets/images/big-questions.png
 
 - name: Space - The Final Junkyard
   link: /projects/space-the-final-junkyard.html
   description: "50' documentary on pollution in space, for Channel 4 and Discovery/TLC."
-  image_url: /assets/images/space.png
+  image_url: /assets/images/space-final-frontier.png
 
 - name: Guru Busters
   link: /projects/guru-busters.html
@@ -31,7 +31,7 @@
 - name: Sun Storm
   link: /projects/sun-storm.html
   description: "50' documentary about campaigners in India exposing crooked gurus and quacks, for Channel 4 and Discovery/TLC."
-  image_url: /assets/images/sunstorm.png
+  image_url: /assets/images/sun-storm.png
 
 - name: Granpa Chatterji
   link: /projects/grandpa-chatterji.html
