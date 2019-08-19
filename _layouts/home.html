@@ -3,38 +3,44 @@ layout: default
 ---
 
 <div class="container">
-	<!-- eagle & eagle jumbotron -->
-	<div class="jumbotron jumbotron-fluid mb-0">
-		<div class="container text-center">
-			<h1 class="display-4 text-secondary">EAGLE & EAGLE</h1>
-			<h3 class="text-secondary">PRODUCTION</h3>
-			<p class="lead">
-				{{ site.description }}
-			</p>
-		</div>
-	</div>
+  <!-- eagle & eagle jumbotron -->
+  <div class="jumbotron jumbotron-fluid mb-0">
+    <div class="container text-center">
+      <h1 class="display-4 text-secondary">EAGLE & EAGLE</h1>
+      <h3 class="text-secondary">PRODUCTION</h3>
+      <p class="lead">
+        {{ site.description }}
+      </p>
+    </div>
+  </div>
 
-	<!-- projects -->
-	{% for project in site.data.projects %}
-	<div class="card mb-3" style="max-width: 100%;">
-		<div class="row no-gutters">
-			<div class="col-md-2">
-				<a href="{{ project.link | relative_url }}"><img src="{{ project.image_url | relative_url }}"
-						class="card-img" alt="{{ project.name | relative_url }}" /></a>
-			</div>
-			<div class="col-md-10">
-				<div class="card-body">
-					<a href="{{ project.link | relative_url }}">
-						<h5 class="card-title">{{ project.name }}</h5>
-					</a>
-					<p class="card-text">
-						{{ project.description }}
-					</p>
-					<a href="{{ project.link | relative_url }}" class="btn btn-info">Video</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	{% endfor %}
-	<br />
+  <!-- projects -->
+  {% for project in site.data.projects %}
+  <div class="card mb-3" style="max-width: 100%;">
+    <div class="row no-gutters">
+      <div class="col-md-2">
+        <a href="{{ project.link | relative_url }}"
+          ><img
+            src="{{ project.image_url | relative_url }}"
+            class="card-img"
+            alt="{{ project.name | relative_url }}"
+        /></a>
+      </div>
+      <div class="col-md-10">
+        <div class="card-body">
+          <a href="{{ project.link | relative_url }}">
+            <h5 class="card-title">{{ project.name }}</h5>
+          </a>
+          <p class="card-text">
+            {{ project.description }}
+          </p>
+          <a href="{{ project.link | relative_url }}" class="btn btn-info"
+            >Video</a
+          >
+        </div>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+  <br />
 </div>

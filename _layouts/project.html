@@ -1,22 +1,27 @@
 ---
 layout: default
 ---
+
 <div class="container">
-    <br>
-    <h1 class="display-4 text-center text-secondary">{{ page.title }}</h1>
-    <hr>
-    <div class="row">
-        <div class="col-sm-3 project-sidebar">
-            <ul class="nav nav-pills flex-column">
-                {% for project in site.data.projects %}
-                <li class="nav-item">
-                    <a class="nav-link {% if page.url == project.link %}active{% endif %}"
-                        href="{{ project.link }}">{{ project.name }}</a>
-                </li>
-                {% endfor %}
-        </div>
-        <div class="col-sm-9">
-            {{ content }}
-        </div>
+  <br />
+  <h1 class="display-4 text-center text-secondary">{{ page.title }}</h1>
+  <hr />
+  <div class="row">
+    <div class="col-sm-3 project-sidebar">
+      <ul class="nav nav-pills flex-column">
+        {% for project in site.data.projects %}
+        <li class="nav-item">
+          <a
+            class="nav-link {% if page.url == project.link %}active{% endif %}"
+            href="{{ project.link }}"
+            >{{ project.name }}</a
+          >
+        </li>
+        {% endfor %}
+      </ul>
     </div>
+    <div class="col-sm-9">
+      {{ content }}
+    </div>
+  </div>
 </div>

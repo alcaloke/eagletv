@@ -1,44 +1,67 @@
 <header>
-	<div class="container">
-		<nav class="navbar navbar-expand-lg navbar-light px-0">
-			<a class="navbar-brand text-secondary" href="{{ '/' | relative_url }}">{{ site.title | upcase }}</a>
-			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent">
-				<span class="navbar-toggler-icon"></span>
-			</button>
+  <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light px-0">
+      <a class="navbar-brand text-secondary" href="{{ '/' | relative_url }}">{{
+        site.title | upcase
+      }}</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarContent"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
-			<div class="collapse navbar-collapse" id="navbarContent">
-				<ul class="navbar-nav ml-auto">
-					<li class="nav-item">
-						<a class="nav-link" href="{{ '/home.html' | relative_url }}">Home</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="{{ '/about.html' | relative_url }}">About</a>
-					</li>
-					<li class="nav-item dropdown">
-						<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-							data-toggle="dropdown">
-							Projects
-						</a>
-						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-							{% for project in site.data.projects %}
-							<a class="dropdown-item" href="{{ project.link }}">{{ project.name }}</a>
-							{% endfor %}
-						</div>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="{{ '/contact.html' | relative_url }}">Contact</a>
-					</li>
-				</ul>
-			</div>
-		</nav>
-		<!-- banner -->
-		<div id="eagleCarousel" class="carousel slide" data-ride="carousel">
-			<div class="carousel-inner">
-				<div class="carousel-item active">
-					<img src="{{ '/assets/images/banner1.gif' | relative_url }}" class="d-block w-100"
-						alt="site banner" />
-				</div>
-			</div>
-		</div>
-	</div>
+      <div class="collapse navbar-collapse" id="navbarContent">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="{{ '/home.html' | relative_url }}"
+              >Home</a
+            >
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ '/about.html' | relative_url }}"
+              >About</a
+            >
+          </li>
+          <li class="nav-item dropdown">
+            <a
+              class="nav-link dropdown-toggle"
+              href="#"
+              id="navbarDropdown"
+              role="button"
+              data-toggle="dropdown"
+            >
+              Projects
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              {% for project in site.data.projects %}
+              <a class="dropdown-item" href="{{ project.link }}">{{
+                project.name
+              }}</a>
+              {% endfor %}
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="{{ '/contact.html' | relative_url }}"
+              >Contact</a
+            >
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <!-- banner -->
+    <div id="eagleCarousel" class="carousel slide" data-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img
+            src="{{ '/assets/images/banner1.gif' | relative_url }}"
+            class="d-block w-100"
+            alt="site banner"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
 </header>
