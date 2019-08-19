@@ -68,5 +68,3 @@ To buy now, click on the button below. Or e-mail: <a href="mailto:info@eagletv.c
 
 {% include paypal.html %}
 <br>
-
-**Distribution**: Channel 4 Learning International

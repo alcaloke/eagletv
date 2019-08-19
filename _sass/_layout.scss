@@ -1,0 +1,25 @@
+h2 {
+	font-size: 20pt;
+}
+
+.social {
+	font-size: 2.5rem;
+
+	.fa-youtube {
+		color: #c4302b;
+	}
+
+	.fa-vimeo {
+		color: #19b7ea;
+	}
+}
+
+@media screen and (max-width: 575px) {
+	.project-sidebar {
+		display: none;
+	}
+
+	.display-4 {
+		font-size: 3rem;
+	}
+}

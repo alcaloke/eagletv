@@ -3,7 +3,7 @@ title: Guru Busters
 layout: project
 ---
 
-India is renowned for the bizarre feats performed by holy men, who hang themselves on hooks, walk through fire and materialise objects from thin air to demonstrate their divine status. Guru Busters shows how these apparently magical acts can be performed by ordinary people and are no more than trickery.
+India is renowned for the bizarre feats performed by holy men, who hang themselves on hooks, walk through fire and materialise objects from thin air to demonstrate their divine status. _Guru Busters_ shows how these apparently magical acts can be performed by ordinary people and are no more than trickery.
 
 <div class='video-container'>
 <iframe class='video' src="https://player.vimeo.com/video/352879208?byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
@@ -21,7 +21,7 @@ Campaigners confront a fraudulent fakir who claims to heal people by baptising t
 <iframe class='video' src="https://player.vimeo.com/video/352879776?byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
-It's not just poor, uneducated people who line the pockets of dubious gurus and quacks. Politicians and scientists are devotees of the godmen the Rationalists are trying to expose. One of the most famous, Satya Sai Baba, has millions of followers. He impresses his celebrity guests by materialising valuable trinkets from thin air. Guru Busters was the first documentary to show suppressed Indian news video of Sai Baba that allegedly reveals the guru using a stage magician’s trick to produce a gold necklace. Astonishing clips from the film, featuring India's best known guru busters Basava Premanand, Sanal Edamaruku and Prabir Ghosh demonstrating stunts such as levitation, flesh piercing and burial alive, can also be viewed at film maker Robert Eagle's YouTube site
+It's not just poor, uneducated people who line the pockets of dubious gurus and quacks. Politicians and scientists are devotees of the godmen the Rationalists are trying to expose. One of the most famous, Satya Sai Baba, has millions of followers. He impresses his celebrity guests by materialising valuable trinkets from thin air. _Guru Busters_ was the first documentary to show suppressed Indian news video of Sai Baba that allegedly reveals the guru using a stage magician’s trick to produce a gold necklace. Astonishing clips from the film, featuring India's best known guru busters Basava Premanand, Sanal Edamaruku and Prabir Ghosh demonstrating stunts such as levitation, flesh piercing and burial alive, can also be viewed at film maker Robert Eagle's YouTube site
 
 **DVDs - direct from the producer**
 
@@ -30,8 +30,6 @@ It's not just poor, uneducated people who line the pockets of dubious gurus and 
 To buy now, click on the button below. Or e-mail: <a href="mailto:info@eagletv.co.uk">info@eagletv.co.uk</a>
 
 {% include paypal.html %}
-
-**Clip sales**: <a href="https://www.itn.co.uk/brands/archive-footage-sales/" target="_blank">ITN Source</a>
 
 **Distribution**: <a href="https://www.drg.tv" target="_blank">DRG</a>
 

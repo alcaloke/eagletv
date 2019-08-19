@@ -10,7 +10,7 @@ layout: project
 Meet Mike the Midwife, a man in a women’s world. How did such a fellow manage to get such a job? This is the question you will be asking as Mike visits his patients and offers opinions about childbirth that will horrify the politically correct.
 
 The outrageous brainchild of writer Brian Thompson and part-time standup
-comedian TC Jefferson, Mike the Midwife made his first public
+comedian TC Jefferson, _Mike the Midwife_ made his first public
 appearance on YouTube in a series of brief no-budget video clips shot
 during time off from their day jobs.
 

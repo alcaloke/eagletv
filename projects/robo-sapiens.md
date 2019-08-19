@@ -13,7 +13,7 @@ Robots are going to change our world one day. But right now their designers are 
 
 Filmed at leading research centres in Japan and the USA this documentary puts the smartest, weirdest, sexiest and most athletic robots through their paces.
 
-Robo Sapiens has been broadcast worldwide on Discovery Channel and on TLC in the USA.
+_Robo Sapiens_ has been broadcast worldwide on Discovery Channel and on TLC in the USA.
 
 **Credits:**
 
