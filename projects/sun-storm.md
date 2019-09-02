@@ -4,7 +4,7 @@ layout: project
 ---
 
 <div class='video-container'>
-<iframe class='video' src="https://player.vimeo.com/video/352057668?byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe class='video' src="https://player.vimeo.com/video/352057668?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 Scientists are warning that the new millennium could be accompanied by damage and disaster on planet Earth. Space craft and communications satellites could be wiped out and power supplies to major cities could be cut off. There could even be adverse effects on the weather and human health.

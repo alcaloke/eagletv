@@ -4,7 +4,7 @@ layout: project
 ---
 
 <div class='video-container'>
-<iframe class='video' src="https://player.vimeo.com/video/352011955?byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe class='video' src="https://player.vimeo.com/video/352011955?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 Robots with emotions; robots that converse with you; robots that play football; robots in your home.

@@ -4,7 +4,7 @@ layout: project
 ---
 
 <div class="video-container">
-<iframe class="video" src="https://player.vimeo.com/video/352876742?byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe class="video" src="https://player.vimeo.com/video/352876742?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 When grandpa from hell meets grandpa from India, family life will never be the same again.
@@ -22,4 +22,10 @@ With its eccentric, true-to-life characters seen from a young point of view, _Gr
 **Credits:**
 
 Director: Indra Bhose<br>
-Producers: Robert Eagle and Catharine Alen-Buckley
+Producers: Robert Eagle and Catharine Alen-Buckley<br>
+Director of Photography: Joachim Bergamin<br>
+Editor: Jon Costelloe<br>
+Music: Tony Waddington<br>
+Casting director: Di Carling<br>
+Art direction: Sabina Sattar<br>
+First assistant director: Roy Stevens

@@ -4,6 +4,7 @@ layout: project
 ---
 
 <img src='/assets/images/eagleLogo.gif' class='img-fluid'>
+<!-- <img src='/assets/images/eagleLogo.png' class='img-fluid'> -->
 
 Eagle & Eagle is a London-based production company specialising in distinctive documentaries, drama and educational programmes. We are no longer in production. Here are some of our previous projects:
 
@@ -27,11 +28,8 @@ _**Picture This!**_, 5x20" children’s series on contemporary artists for Chann
 
 Our production team has also worked with the BBC and other independents on a wide variety of programmes.
 
-Executive producer and director Robert Eagle’s freelance credits include documentaries, drama, science and children's programmes, including _Conjoined Twins_ for BBC2’s Horizon; _Supernatural Science_, a 17 part documentary series for BBC Worldwide and Discovery, nominated for a Broadcast Award; The _Dancer’s Body_, a 3x50’ series for BBC2, which won the international Dance Screen award; _Science of Survival_ for Discovery USA; <a href="https://www.tv6.co.uk/Productions/Archaeology/60-/The-Solomon-Treasures" target="_blank">_The Solomon Treasures_</a>, a documentary for National Geographic, Arte and the History Channel investigating archaeological fraud and forgery. Here is a short clip from the film -
-
-<br>
-<div class='video-container-wide'>
-<iframe class='video' src="https://www.youtube.com/embed/mV-KCav6UBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+Executive producer and director Robert Eagle’s freelance credits include documentaries, drama, science and children's programmes, including _Conjoined Twins_ for BBC2’s Horizon; _Supernatural Science_, a 17 part documentary series for BBC Worldwide and Discovery, nominated for a Broadcast Award; The _Dancer’s Body_, a 3x50’ series for BBC2, which won the international Dance Screen award; <a href="https://www.tv6.co.uk/Productions/Archaeology/60-/The-Solomon-Treasures" target="_blank">_The Solomon Treasures_</a>, a documentary for National Geographic, Arte and the History Channel investigating archaeological fraud and forgery.
 
 Line producer and director Catharine Alen-Buckley has managed many drama and documentary programmes, including _Vivaldi Unmasked_ (BBC), _The Peterloo Massacre_ (RDF for Channel 4), _The People’s Duchess_, _Nelson's Trafalgar_ and _Age of AIDS_ (Paladin Invision for Channel 4 and PBS).
+
+Assistant producer Harry Eagle has extensive drama and documentary production experience as an assistant director, location manager and in the art department on film and television in television and feature films. He has produced and directed his own short films and has also acted as fixer for production crews visiting the UK from overseas.
