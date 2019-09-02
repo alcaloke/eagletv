@@ -6,7 +6,7 @@ layout: project
 India is renowned for the bizarre feats performed by holy men, who hang themselves on hooks, walk through fire and materialise objects from thin air to demonstrate their divine status. _Guru Busters_ shows how these apparently magical acts can be performed by ordinary people and are no more than trickery.
 
 <div class='video-container'>
-<iframe class='video' src="https://player.vimeo.com/video/352879208?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe class='video' src="https://player.vimeo.com/video/357307051?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 Packed with startling action footage the film goes on the road with India's Rationalists, who are campaigning to rid their country of superstition and witchcraft.
@@ -29,6 +29,10 @@ It's not just poor, uneducated people who line the pockets of dubious gurus and 
 
 <div class='video-container'>
 <iframe class='video' src="https://player.vimeo.com/video/352879776?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</div>
+
+<div class='video-container'>
+<iframe class='video' src="https://player.vimeo.com/video/352879208?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
 Astonishing clips from the film, featuring India's best known guru busters Basava Premanand, Sanal Edamaruku and Prabir Ghosh demonstrating stunts such as levitation, flesh piercing and burial alive, can also be viewed at film maker Robert Eagle's YouTube site

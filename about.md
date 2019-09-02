@@ -4,7 +4,6 @@ layout: project
 ---
 
 <img src='/assets/images/eagleLogo.gif' class='img-fluid'>
-<!-- <img src='/assets/images/eagleLogo.png' class='img-fluid'> -->
 
 Eagle & Eagle is a London-based production company specialising in distinctive documentaries, drama and educational programmes. We are no longer in production. Here are some of our previous projects:
 
