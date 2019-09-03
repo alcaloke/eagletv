@@ -5,7 +5,11 @@ layout: project
 
 <img src='/assets/images/eagleLogo.gif' class='img-fluid'>
 
-Eagle & Eagle is a London-based production company specialising in distinctive documentaries, drama and educational programmes. We are no longer in production. Here are some of our previous projects:
+Eagle & Eagle was launched in 1989 as a television production company specialising in distinctive documentaries, drama and educational programmes.
+
+More recently the company has been expanding its interests into fine art and fashion.
+
+The company’s television productions include:
 
 _**Mike the Midwife**_, the outrageous brainchild of writer Brian Thompson and part-time standup comedian TC Jefferson
 
