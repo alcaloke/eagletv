@@ -20,6 +20,8 @@ assumed they were documentaries. Some were outraged:
 
 Sensing a rich vein of comic potential, in 2011 we persuaded Channel 4’s head comedy to commission this short film to introduce Mike to the wider audience he deserved. It was to be the first of a series - but it fell foul of a new incoming head of programmes at C4 who just failed to see the joke.
 
+Duration: 3 minutes 45”
+
 **DVDs - direct from the producer**
 
 £9.99 (UK) £11.99 (worldwide) including postal charges and VAT

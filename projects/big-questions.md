@@ -50,8 +50,8 @@ Where do we come from, where are we going, and are we alone in the Universe?
 Adam Hart-Davis investigates the biggest questions in science through the story of the astronomer Edwin Hubble, who discovered that the Universe consisted not of one, but of countless galaxies - and that it is still continuing to expand.
 <br><br>
 
-Series producer: Catharine Alen-Buckley
-Assistant producer and director: Bindu Mathur
+Series producer: Catharine Alen-Buckley<br>
+Assistant producer and director: Bindu Mathur<br>
 Executive producer and director: Robert Eagle
 
 **DVDs - direct from the producer**

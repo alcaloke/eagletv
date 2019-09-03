@@ -35,8 +35,6 @@ It's not just poor, uneducated people who line the pockets of dubious gurus and 
 <iframe class='video' src="https://player.vimeo.com/video/352879208?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
-Astonishing clips from the film, featuring India's best known guru busters Basava Premanand, Sanal Edamaruku and Prabir Ghosh demonstrating stunts such as levitation, flesh piercing and burial alive, can also be viewed at film maker Robert Eagle's YouTube site
-
 **DVDs - direct from the producer**
 
 £13.99 (UK) £15.99 (worldwide) including postal charges and VAT

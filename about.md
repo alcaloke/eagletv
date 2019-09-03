@@ -31,4 +31,4 @@ Executive producer and director Robert Eagle’s freelance credits include docum
 
 Line producer and director Catharine Alen-Buckley has managed many drama and documentary programmes, including _Vivaldi Unmasked_ (BBC), _The Peterloo Massacre_ (RDF for Channel 4), _The People’s Duchess_, _Nelson's Trafalgar_ and _Age of AIDS_ (Paladin Invision for Channel 4 and PBS).
 
-Assistant producer Harry Eagle has extensive drama and documentary production experience as an assistant director, location manager and in the art department on film and television in television and feature films. He has produced and directed his own short films and has also acted as fixer for production crews visiting the UK from overseas.
+Assistant producer Harry Eagle has extensive drama and documentary production experience as an assistant director, location manager and in the art department in television and feature films. He has produced and directed his own short films and has also acted as fixer for production crews visiting the UK from overseas.

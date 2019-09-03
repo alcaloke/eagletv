@@ -7,6 +7,9 @@ layout: project
 <iframe class="video" src="https://player.vimeo.com/video/352880686?title=0&byline=0&portrait=0" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 </div>
 
+_The three minute clip above has been viewed more than 1.6 million on YouTube._
+_Whole programme length: 23 minutes 40”_
+
 The true story of American teenager David Hahn, who set about building a nuclear reactor in his garden shed - until matters got out of hand and the shed started emitting high levels of radiation. Was his homemade reactor producing plutonium?
 
 **"Wonderful film"** Daily Telegraph
